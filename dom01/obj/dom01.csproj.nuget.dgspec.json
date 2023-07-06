@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj": {}
+    "C:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj": {}
   },
   "projects": {
-    "c:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj": {
+    "C:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj",
+        "projectUniqueName": "C:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj",
         "projectName": "dom01",
-        "projectPath": "c:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj",
+        "projectPath": "C:\\Users\\urmat\\Desktop\\HOME1\\dom01\\dom01.csproj",
         "packagesPath": "C:\\Users\\urmat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\urmat\\Desktop\\HOME1\\dom01\\obj\\",
+        "outputPath": "C:\\Users\\urmat\\Desktop\\HOME1\\dom01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\urmat\\AppData\\Roaming\\NuGet\\NuGet.Config"
